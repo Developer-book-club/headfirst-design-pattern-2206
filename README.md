@@ -21,16 +21,16 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/je-pa"><img  width="100px" src="https://avatars.githubusercontent.com/u/81175088?v=4" /></a>
+            <a href="https://github.com/Jiyeong-github"><img  width="100px" src="https://avatars.githubusercontent.com/u/81175088?v=4" /></a>
         </td>
         <td align="center">
             <a href="https://github.com/je-pa"><img  width="100px" src="https://avatars.githubusercontent.com/u/76720692?v=4" /></a>
         </td>
         <td align="center">
-            <a href="https://github.com/jerry-ryu"><img  width="100px" src="https://avatars.githubusercontent.com/u/46421950?v=4" /></a>
+            <a href="https://github.com/duyankim"><img  width="100px" src="https://avatars.githubusercontent.com/u/46421950?v=4" /></a>
         </td>
       <td align="center">
-            <a href="https://github.com/keson0326"><img  width="100px" src="https://avatars.githubusercontent.com/u/99788738?v=4" /></a>
+            <a href="https://github.com/botonger"><img  width="100px" src="https://avatars.githubusercontent.com/u/99788738?v=4" /></a>
         </td>
     </tr>
     <tr>
