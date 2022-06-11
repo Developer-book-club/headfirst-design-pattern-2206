@@ -29,8 +29,11 @@
         <td align="center">
             <a href="https://github.com/duyankim"><img  width="100px" src="https://avatars.githubusercontent.com/u/46421950?v=4" /></a>
         </td>
-      <td align="center">
+        <td align="center">
             <a href="https://github.com/botonger"><img  width="100px" src="https://avatars.githubusercontent.com/u/99788738?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/kkung-He"><img  width="100px" src="https://avatars.githubusercontent.com/u/98209409?v=4" /></a>
         </td>
     </tr>
     <tr>
@@ -38,5 +41,6 @@
         <td align="center">지은</td>
         <td align="center">도연</td>
         <td align="center">채연</td>
+        <td align="center">효은</td>
     </tr>
 </table>
