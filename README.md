@@ -16,6 +16,22 @@
 | 7.24 (일) 10:00 | 12장 복합 패턴, 패턴을 모아 패턴 만들기 p71                                                | 12장 :                           |
 | 7.31 (일) 10:00 | 13장 실전 디자인 패턴 , 패턴과 행복하게 살아가기 p33 <br/>14장 기타 패턴, 다양한 패턴 빠르게 알아보기 p18       | 13장 : <br/> 14장 :               |
 
+### 💡 Commit Convention
+- 커밋메시지 형식!
+    1. Feat : 새로운 내용 추가
+    2. Rename : 파일 이름 수정 
+    3. Remove : 파일 제거
+    4. Modify : 문서 수정 <br>
+    ex) 파일 이름 수정, 문서 수정을 한 경우
+       <br> : Rename 파일 이름 & Modify 문서이름
+
+### 💡 File Convention
+- markdown 파일 : 패턴명.md 
+  - ex) observer_pattern.md
+- 이미지 첨부시 Chap/개인폴더/img 폴더를 만들어서 모아둘 것
+  - ex) Chapter02\je\img
+- 소스파일은 폴더를 따로 만들어서 저장할 것
+    - ex) Chapter02\je\폴더명
 
 ### 팀원 정보
 <table>
