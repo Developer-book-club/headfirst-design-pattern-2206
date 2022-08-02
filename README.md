@@ -29,9 +29,9 @@
 - markdown 파일 : 패턴명.md 
   - ex) observer_pattern.md
 - 이미지 첨부시 Chap/개인폴더/img 폴더를 만들어서 모아둘 것
-  - ex) Chapter02\je\img
+  - ex) Chapter02/je/img
 - 소스파일은 폴더를 따로 만들어서 저장할 것
-    - ex) Chapter02\je\폴더명
+    - ex) Chapter02/je/폴더명
 
 ### 팀원 정보
 <table>
