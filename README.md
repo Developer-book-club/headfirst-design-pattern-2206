@@ -33,6 +33,12 @@
 - 소스파일은 폴더를 따로 만들어서 저장할 것
     - ex) Chapter02/je/폴더명
 
+### 📚 스터디 목차
+#### 📓 챕터01. 전략패턴
+- [@duyankim](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/dy/Strategy_pattern.md)
+- [@jiyeong-github](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/jy/strategy_pattern.md)
+
+
 ### 팀원 정보
 <table>
     <tr>
