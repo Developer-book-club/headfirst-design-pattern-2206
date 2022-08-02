@@ -33,10 +33,20 @@
 - 소스파일은 폴더를 따로 만들어서 저장할 것
     - ex) Chapter02/je/폴더명
 
-### 📚 스터디 목차
-#### 📓 챕터01. 전략패턴
-- [@duyankim](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/dy/Strategy_pattern.md)
-- [@jiyeong-github](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/jy/strategy_pattern.md)
+## 📚 스터디 목차
+### 📙 챕터 01. 전략패턴
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/dy/Strategy_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/jy/strategy_pattern.md)
+
+### 📙 챕터 02. 옵저버 패턴
+- [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter02/cy/README.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter02/he/observer_pattern.md)
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter02/je/%EC%98%B5%EC%A0%80%EB%B2%84.md)
+
+### 📙 챕터 02. 데코레이터 패턴
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter03/je/decorator_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter03/jy/decorator_pattern.md)
+
 
 
 ### 팀원 정보
