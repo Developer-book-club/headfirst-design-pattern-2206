@@ -34,20 +34,70 @@
     - ex) Chapter02/je/폴더명
 
 ## 📚 스터디 목차
-### 📙 챕터 01. 전략패턴
+#### 📙 챕터 01. 전략패턴
 - [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/dy/Strategy_pattern.md)
 - [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter01/jy/strategy_pattern.md)
 
-### 📙 챕터 02. 옵저버 패턴
+#### 📙 챕터 02. 옵저버 패턴
 - [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter02/cy/README.md)
 - [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter02/he/observer_pattern.md)
 - [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter02/je/%EC%98%B5%EC%A0%80%EB%B2%84.md)
 
-### 📙 챕터 02. 데코레이터 패턴
+#### 📗 챕터 03. 데코레이터 패턴
 - [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter03/je/decorator_pattern.md)
 - [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter03/jy/decorator_pattern.md)
 
+#### 📗 챕터 04. 팩토리 패턴
+- [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter04/cy/factory_pattern.md)
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter04/dy/factory_pattern.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter04/he/factory_pattern.md)
 
+#### 📙 챕터 05. 싱글턴 패턴
+- [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter05/cy/singleton_pattern.md)
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter05/dy/singleton_pattern.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter05/he/singleton_pattern.md)
+
+#### 📙 챕터 06. 커맨드 패턴
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter06/je/command_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter06/jy/command_pattern.md)
+
+#### 📗 챕터 07. 어댑터 패턴, 퍼사드 패턴
+- [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter07/cy/Adapter_Facade_pattern.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter07/he/adapter_and_facade_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter07/jy/adapter_and_facade_pattern.md)
+
+#### 📗 챕터 08. 템플릿 메소드 패턴
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter08/dy/template_method_pattern.md)
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter08/je/template_method_pattern.md)
+
+#### 📙 챕터 09. 반복자 패턴, 컴포지트 패턴
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter09/dy/iterator_pattern_composite_pattern.md)
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter09/je/Iterator_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter09/jy/iterator_pattern_%26_composite_pattern.md)
+
+#### 📙 챕터 10. 상태 패턴
+- [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter10/cy/state_pattern.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter10/he/state_patten.md)
+
+#### 📗 챕터 11. 프록시 패턴
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter11/dy/proxy_pattern.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter11/he/proxy_pattern.md)
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter11/je/proxy_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter11/jy/proxy_pattern.md)
+
+#### 📗 챕터 12. 복합 패턴
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter12/he/mvc_pattern.md)
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter12/je/mvc_pattern.md)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter12/jy/composite_pattern.md)
+
+#### 📙 챕터 13. 실전 디자인 패턴
+- [채연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter13/cy/desigin_pattern.md)
+- [효은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter13/he/design_pattern.md)
+
+#### 📙 챕터 14. 브릿지, 빌더, 책임연쇄, 플라이웨이트, 인터프리터, 중재자, 메멘토, 프로토타입, 비지터 패턴
+- [도연님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter14/dy/other_patterns.md)
+- [지은님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/tree/main/Chapter14/je)
+- [지영님의 정리](https://github.com/Developer-book-club/headfirst-design-pattern-2206/blob/main/Chapter14/jy/etc_patterns.md)
 
 ### 팀원 정보
 <table>
