@@ -18,3 +18,62 @@
 - 단점
     - 일단 이 패턴을 써서 구현해 놓으면 특정 인스턴스만 다른 인스턴스와 다르게 행동하게 할 수 없다.
     
+``` java
+import java.util.HashMap;
+import java.util.Map;
+
+// Flyweight 인터페이스
+interface Shape {
+    void draw();
+}
+
+// ConcreteFlyweight 클래스
+class Circle implements Shape {
+    private String color;
+
+    public Circle(String color) {
+        this.color = color;
+    }
+
+    @Override
+    public void draw() {
+        System.out.println("Drawing a circle with color: " + color);
+    }
+}
+
+// FlyweightFactory 클래스
+class ShapeFactory {
+    private static final Map<String, Shape> circleMap = new HashMap<>();
+
+    // 캐시된 동일한 색상의 원 객체 반환 또는 생성 후 반환
+     public static Shape getCircle(String color) {
+        Circle circle = (Circle)circleMap.get(color);
+
+         if(circle == null){
+            circle = new Circle(color);
+            circleMap.put(color, circle);
+            System.out.println("Creating a new circle with color: " + color);
+         } else{
+             System.out.println("Reusing an existing circle with color: " + color);
+         }
+
+        return circle;
+     }
+}
+
+public class Main {
+   private static final String[] colors =
+      { "Red", "Green", "Blue", "Yellow", "Black" };
+
+   public static void main(String[] args) {
+      for(int i = 0; i < 10; ++i) {
+         Circle circle =
+            (Circle)ShapeFactory.getCircle(getRandomColor());
+         circle.draw();
+      }
+   }
+
+   private static String getRandomColor() {
+      return colors[(int)(Math.random()*colors.length)];
+    }
+```
